@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/flipping-game/static/css/main.3de0e3cd.css",
+    "main.js": "/flipping-game/static/js/main.86cc42a9.js",
+    "static/media/match.wav": "/flipping-game/static/media/match.b222ebf03a29c11b61f0.wav",
+    "index.html": "/flipping-game/index.html",
+    "main.3de0e3cd.css.map": "/flipping-game/static/css/main.3de0e3cd.css.map",
+    "main.86cc42a9.js.map": "/flipping-game/static/js/main.86cc42a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3de0e3cd.css",
+    "static/js/main.86cc42a9.js"
+  ]
+}
